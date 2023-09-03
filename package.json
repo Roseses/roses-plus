@@ -1,0 +1,28 @@
+{
+  "name": "roses-plus",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "roses-plus",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "roses",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roses/easyest"
+  },
+  "dependencies": {
+    "@roses/utils": "^1.0.0"
+  }
+}

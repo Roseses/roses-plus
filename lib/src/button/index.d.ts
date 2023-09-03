@@ -1,4 +1,4 @@
-export declare const Button: import("@roses/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
+export declare const Button: import("@roseslove/utils/dist/lib/withinstall").SFCWithInstall<import("vue").DefineComponent<{
     type: {
         type: StringConstructor;
         required: false;
